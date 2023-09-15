@@ -83,7 +83,7 @@ Q1: 1994년 안동의 신호등 수는?
 # 추억의 특별한 교수님들
 * 94동기회 교수님 & 지호준 교수님(한국책략)
 * 조난 될 뻔 했던 교수산악회 산행
-* 부러운 학술원 신임회원 (김용균 교수님)
+* 부러운 학술원 신임회원 [김용균 교수님](https://news.andong.ac.kr/news/articleView.html?idxno=1171)
 * 연구의 달인 교수님들 
 
 # 컴퓨터 언어와 사이트
@@ -111,4 +111,6 @@ Q1: 1994년 안동의 신호등 수는?
 *****
 #[참고사이트]
 1. mstsc 3389포트 변경: https://suzxc2468.tistory.com/m/170
-2. 
+2. 안동대 지호준 교수님 추모 영상  https://youtu.be/fD2GDDGwJPE?si=i2tKKlh-IZIGlJQz
+3. http://github.com 자료 저장소 (MS가 2조원에 구입한 사이트)
+4. http://cafe.naver.com <- 수업카페 만들기 좋은 곳
